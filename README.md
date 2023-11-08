@@ -56,16 +56,3 @@ To use the bank management system:
 
 3. Use the graphical user interface to perform operations like creating an account, depositing and withdrawing money, transferring funds, and checking account balances.
 
-## Contributing
-
-Contributions to the project are welcome. Please follow the steps below:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit them (`git commit -am 'Add some feature'`).
-4. Push the branch (`git push origin feature-branch`).
-5. Create a new Pull Request.
-
-## License
-
-This project is open-sourced under the MIT License. See the [LICENSE](LICENSE) file for details.
