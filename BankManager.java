@@ -6,5 +6,5 @@ public interface BankManager extends Remote {
     void ajouter(String id,double somme) throws RemoteException;
     void retirer(String id,double somme) throws  RemoteException;
     double consulterSolde(String id) throws  RemoteException;
-    double transfererSolde(String id_C,String id_D,double somme) throws  RemoteException;
+    void transfererSolde(String id_C,String id_D,double somme) throws  RemoteException;
 }
