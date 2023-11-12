@@ -20,7 +20,7 @@ Before running this project, ensure you have Java Development Kit (JDK) installe
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/bank-management-rmi.git
+    git clone https://github.com/AmmariAbdelmounaim/RMI_Java_SwingApplication.git
     cd bank-management-rmi
     ```
 
